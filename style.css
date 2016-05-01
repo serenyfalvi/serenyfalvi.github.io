@@ -22,13 +22,14 @@ body {
 }
 #header-text {
 	font-size: 40px;
-	height: 45px;
-	width: 160px;
+	height: 95px;
+	width: 168px;
 	position: absolute;
 	margin: 0 auto;
 	left: 0;
 	right: 0;
-	top: 60px;
+	top: 35px;
+	background-image: url(images/header-text.png);
 }
 #menu {
 	
